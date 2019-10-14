@@ -22,6 +22,7 @@ public class MouseObjectControl : MonoBehaviour
     private Vector3 GetMouseAsWorldPoint()
 
     {
+
         // Pixel coordinates of mouse (x,y)
         Vector3 mousePoint = Input.mousePosition;
 
