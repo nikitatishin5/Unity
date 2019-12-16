@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDigitRecognizer", "ConsoleAppDigitRecognizer\ConsoleAppDigitRecognizer.csproj", "{D811904D-D883-4A7E-AE3B-AB9B847FCBFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D811904D-D883-4A7E-AE3B-AB9B847FCBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D811904D-D883-4A7E-AE3B-AB9B847FCBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D811904D-D883-4A7E-AE3B-AB9B847FCBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D811904D-D883-4A7E-AE3B-AB9B847FCBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E00429C3-8B86-48E3-8CCB-ABE03B07067E}
+	EndGlobalSection
+EndGlobal
